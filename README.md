@@ -33,5 +33,3 @@ graph TD
         SigTest -- Yes -->|plotAll| PopPlot[Population Tuning Surfaces]:::viz
         SigTest -- Yes -->|plotDirTF_bestSF| SinglePlot[Single Cell Surface]:::viz
     end
-```
-
